@@ -16,8 +16,9 @@ There are Five major steps:
 
 The default sys requirements:
 
-| Frequency           | 77GHz  |
+| Parameters          | Values |
 | ------------------- | ------ |
+| Frequency           | 77GHz  |
 | Range Resolution    | 1m     |
 | Max Range           | 200m   |
 | Max Velocity        | 70 m/s |
