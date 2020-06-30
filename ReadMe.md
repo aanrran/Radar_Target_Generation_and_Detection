@@ -34,7 +34,11 @@ Base on the above table, we can get the sweep bandwidth, sweep time and the chir
 
 ![equations](equations.PNG)
 
+
+
 The target can be detected base on the time travel of the signal:
+
+
 
 ![Target Detection](Target Detection.PNG)
 
