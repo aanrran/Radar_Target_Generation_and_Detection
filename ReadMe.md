@@ -32,18 +32,7 @@ targetPosition = 100; %target position in m
 
 Base on the above table, we can get the sweep bandwidth, sweep time and the chirp signal slope:
 
-
-$$
-Bandwidth(Bsweep) = \frac{SpeedofLight}{2*rangeResolution}
-$$
-
-$$
-T_{chirp} = \frac{5.5\cdot2\cdot R_{max}}{SpeedofLight}
-$$
-
-$$
-Slope=\frac{Bandwidth}{T_{chirp} }
-$$
+![equations](equations.PNG)
 
 The target can be detected base on the time travel of the signal:
 
