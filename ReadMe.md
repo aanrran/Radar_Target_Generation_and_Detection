@@ -34,13 +34,9 @@ Base on the above table, we can get the sweep bandwidth, sweep time and the chir
 
 ![equations](equations.PNG)
 
-
-
 The target can be detected base on the time travel of the signal:
 
-
-
-![Target Detection](Target Detection.PNG)
+![Target Detection](TargetDetection.PNG)
 
 The beat signal can be calculated by multiplying the Transmit signal Tx with Receive signal Rx. This process in turn works as frequency subtraction. It is implemented by element by element multiplication of transmit and receive signal matrices. After getting the beat signal, we can use FFT to find the position of the target and 2D FFT to find the speed of the target.
 
